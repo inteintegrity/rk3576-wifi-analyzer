@@ -1,0 +1,9 @@
+target/
+.build/
+flipctl-wifi-build/
+*.AppImage
+*.tar.gz
+__pycache__/
+*.pyc
+.env
+.env.*

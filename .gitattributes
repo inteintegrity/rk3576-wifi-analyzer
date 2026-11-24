@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Keep verbatim upstream legal notices, including their original whitespace.
+apps/wifi-analyzer/THIRD-PARTY-LICENSES.md -whitespace
